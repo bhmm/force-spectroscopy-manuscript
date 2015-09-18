@@ -2,7 +2,13 @@
 
 Multistate hopping data generously provided by Michael T. Woodside, University of Alberta.
 
-Data recorded at 10 kHz.
+* Data recorded at 10 kHz.
+
+* All four trajectories are on the same molecular system (the add riboswitch aptamer domain, without ligand), and same conditions except for force. The mol3_9 and mol3_8_ext16 are at roughly the same force, and the other 2 records are at a different, higher value (but roughly the same value for each one).
+
+* Since "roughly same" can still be subject to calibration error, each trajectory should be subjected to a separate analysis.
+
+* In terms of comparison to the paper, the first two records mentioned above are comparable to the yellow-colored one shown in the paper, whereas the other 2 are comparable to the green one in the figure.
 
 ## References
 
